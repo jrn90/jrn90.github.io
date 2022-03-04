@@ -36,13 +36,13 @@ sidebar:
         level: Student
 
     interests:
-      - item: Climbing
+      - item: Billiards
         link:
 
-      - item: Snowboarding
+      - item: Camping
         link:
 
-      - item: Cooking
+      - item: Warhammer 40k
         link:
 
 career-profile:
@@ -52,28 +52,10 @@ career-profile:
 
       After the seventh year of not making it to the Little League World Series it was time to figure out a new game plan. Conveniently around this time is when my family got it's first computer and I was hooked from there.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Computer Networking
+      university: Leonardtown High School
+      time: 2004 - 2008
+      details:
 experiences:
     - role: Lead Developer
       time: 2015 - Present
