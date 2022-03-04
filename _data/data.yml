@@ -46,14 +46,11 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Wannabe MLB All-star turned Software Developer with over 10+ years of professional experience on how not to make the major leagues.
+
+      After the seventh year of not making it to the Little League World Series it was time to figure out a new game plan. Conveniently around this time is when my family got it's first computer and I was hooked from there.
 education:
     - degree: MSc in Computer Science
       university: University of London
