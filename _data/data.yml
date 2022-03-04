@@ -53,47 +53,41 @@ career-profile:
       After the seventh year of not making it to the Little League World Series it was time to figure out a new game plan. Conveniently around this time is when my family got it's first computer and I was hooked from there.
 education:
     - degree: Computer Networking
+      university: Dr. James A. Forrest Career and Technology Center
+      time: 2004 - 2008
+      details:
+    - degree: Computer Networking
       university: Leonardtown High School
       time: 2004 - 2008
       details:
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: August 2021 - Present
+      company: Render Security Engineering, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Software Engineer creating & securing automated build systems for embedded microcontrollers.
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: August 2020 - August 2021
+      company: SAIC, Remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Senior Software Engineer for multiple web, database, and internal software applications in a 900,000+ user system.
+          - Designed and implemented a containerized micro service architecture to automate the monitoring, testing, and reporting of multiple third-party systems into a centralized data store.
+          - Utilized Robotic Process Automation (RPA) to automate tasks for end-users and service desk employees.
+          - Designed and implemented flows, intents, and models for an AI/ML chat-bot for end-users and service desk employees.
+    - role: Software Developer
+      time: June 2015 - August 2020
+      company: PSI Pax, California, MD
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Lead Software Developer for five ASP.NET web app, 10 SQL Server database, and 400+ user system.
+          - Designed and implemented a full REST API service to replace a third-party API that was phased out.
+          - Developed and maintained a workflow strategy utilizing Azure DevOps with git source control
+          - Designed and implemented a custom document repository to replace an email-based process with a web based processed to centralize data and provide reports and metrics.
+          - Guided junior developers on goals, standards & practices, and growth of knowledge.
+    - role: Consultant
+      time: December 2010 - June 2015
+      company: Booz Allen Hamilton, Lexington Park, MD
+      details: |
+        Software developer & computer networking consultant for a document management system and foreign navy ship network. More detail available upon request.
 projects:
     title: Projects
     intro: >
